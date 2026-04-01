@@ -65,6 +65,4 @@ This project is completely free and open-source under the **MIT License**.
 
 ---
 
-## ⭐ Show Support
-
 If you like this project, please ⭐ the repository and share it with your friends!
